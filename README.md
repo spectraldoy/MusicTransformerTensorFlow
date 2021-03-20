@@ -9,9 +9,7 @@ TODO: use gsutil font
 1. TensorFlow 2.3.0
 2. NumPy 1.19.0
 3. mido 1.2.9
-5. midi2audio 0.1.1
-
-## Running from the Command Line
+4. FluidSynth 1.1.11
 
 ## Generation with Python
 ### Setup
